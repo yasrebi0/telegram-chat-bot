@@ -1,0 +1,14 @@
+{
+  "name": "telegram-chat-bot",
+  "version": "1.0.0",
+  "description": "بات تلگرام گفتگوی روزمره - سازگار با دیپلوی سرورلس (Vercel)",
+  "main": "api/webhook.js",
+  "type": "commonjs",
+  "scripts": {
+    "set-webhook": "node scripts/set-webhook.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
